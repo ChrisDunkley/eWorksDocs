@@ -1,4 +1,8 @@
-# just-the-docs-template
+# eWorks Docs
+
+Documentation for processes and requirements when working on eWorks projects.
+
+# Jekyll instructions
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
@@ -10,11 +14,6 @@ More specifically, the created site:
 
 - uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem;
 - uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages.
-
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
 
 If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](#hosting-your-docs-from-an-existing-project-repo).
 
