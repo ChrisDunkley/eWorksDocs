@@ -1,9 +1,10 @@
 ---
+title: ACE Cambodia course updates
 share: true
 ---
 
 
-[[BKI ACE Cambodia|BKI ACE Cambodia]]
+[BKI ACE Cambodia](BKI%20ACE%20Cambodia.md)
 
 ## Checklist for unit updates
 
@@ -41,11 +42,11 @@ For example, if there is a reference to MyLearning you may need to:
 
 **Here is an example of the first topic of a unit and how you update it:**
 
-![[Pasted image 20260312215903.png|Pasted image 20260312215903.png]]
+![Pasted image 20260312215903.png](./Pasted%20image%2020260312215903.png)
 
 **And this is a final updated version:**
 
-![[Pasted image 20260312215941.png|Pasted image 20260312215941.png]]
+![Pasted image 20260312215941.png](./Pasted%20image%2020260312215941.png)
 ### 3. Check units for display issues that can be easily resolved
 
 When you review at the units please look for any small visual issues that can be easily fixed.
@@ -58,9 +59,9 @@ This could include:
 
 These are empty “Text and media area” blocks that serve no purpose. They also show up in the main navigation for the unit, as shown. Please remove these.
 
-![[Pasted image 20260312215728.png|492]]
+![492](./Pasted%20image%2020260312215728.png)
 
-![[Pasted image 20260312215830.png|200]]
+![200](./Pasted%20image%2020260312215830.png)
 
 
 > [!success] You did it.
